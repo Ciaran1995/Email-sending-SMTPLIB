@@ -1,4 +1,5 @@
 """ This script sends a reflective email to my email on Friday, and a Birthday message on my birthday """
+""" This script is used online in python-anywhere to run in the cloud rather than having to run everyday """
 
 import smtplib
 import datetime as dt
